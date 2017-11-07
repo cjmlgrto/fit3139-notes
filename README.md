@@ -7,7 +7,7 @@ If you see an issue, just [submit one](https://github.com/cjmlgrto/fit3139-notes
 
 ## Contents
 
-1. Errors and Approximation
+1. [Errors and Approximation](https://github.com/cjmlgrto/fit3139-notes/blob/master/notes/01-errors_and_approximation.md)
 2. Computer Arithmetic
 3. Matrices
 4. Eigenvalues & Eigenvectors
