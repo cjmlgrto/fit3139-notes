@@ -13,7 +13,7 @@ If you see an issue, just [submit one](https://github.com/cjmlgrto/fit3139-notes
 4. [Eigenvalues & Eigenvectors](https://github.com/cjmlgrto/fit3139-notes/blob/master/notes/04-eigen.md)
 5. [Non-Linear Equations](https://github.com/cjmlgrto/fit3139-notes/blob/master/notes/05-non_linear_equations.md)
 6. [Dynamical Systems](https://github.com/cjmlgrto/fit3139-notes/blob/master/notes/06-dynamical_systems.md)
-7. Modelling using Differential Equations
+7. [Modelling using Differential Equations](https://github.com/cjmlgrto/fit3139-notes/blob/master/notes/07-modelling_with_differentials.md)
 8. Solving Ordinary Differential Equations
 9. Stochastic Modelling
 10. Dynamic Programming
@@ -21,3 +21,5 @@ If you see an issue, just [submit one](https://github.com/cjmlgrto/fit3139-notes
 12. Simulated Annealing
 13. Genetic Algorithms
 14. High-Dimensional Data Analysis
+
+
