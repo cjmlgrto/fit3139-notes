@@ -9,8 +9,8 @@ If you see an issue, just [submit one](https://github.com/cjmlgrto/fit3139-notes
 
 1. [Errors and Approximation](https://github.com/cjmlgrto/fit3139-notes/blob/master/notes/01-errors_and_approximation.md)
 2. [Computer Arithmetic](https://github.com/cjmlgrto/fit3139-notes/blob/master/notes/02-computer_arithmetic.md)
-3. Matrices
-4. Eigenvalues & Eigenvectors
+3. [Matrices](https://github.com/cjmlgrto/fit3139-notes/blob/master/notes/03-matrices.md)
+4. [Eigenvalues & Eigenvectors](https://github.com/cjmlgrto/fit3139-notes/blob/master/notes/04-eigen.md)
 5. Dynamical Systems
 6. Modelling using Differential Equations
 7. Solving Ordinary Differential Equations

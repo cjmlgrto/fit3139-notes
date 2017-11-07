@@ -161,7 +161,7 @@ Note that in the example above, `U` is the upper-triangular matrix formed by row
 * i.e. try to solve the system for some `k` such that `Ak` (which is a vector in the span of `A`) is a close approximation of `b`
 * **Linear Least-Squares Problem**:
 	* Given an **over-determined** system of linear equations `Ax = b`
-	* Find a `k` such that `|e|^2` is a minimum, where `e = b - Ak`
+	* Find a `k` such that `||e||^2` is a minimum, where `e = b - Ak`
 
 ### Normal Equation to solve the Linear Least-Squares Problem
 
