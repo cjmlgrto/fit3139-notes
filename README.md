@@ -11,12 +11,13 @@ If you see an issue, just [submit one](https://github.com/cjmlgrto/fit3139-notes
 2. [Computer Arithmetic](https://github.com/cjmlgrto/fit3139-notes/blob/master/notes/02-computer_arithmetic.md)
 3. [Matrices](https://github.com/cjmlgrto/fit3139-notes/blob/master/notes/03-matrices.md)
 4. [Eigenvalues & Eigenvectors](https://github.com/cjmlgrto/fit3139-notes/blob/master/notes/04-eigen.md)
-5. Dynamical Systems
-6. Modelling using Differential Equations
-7. Solving Ordinary Differential Equations
-8. Stochastic Modelling
-9. Dynamic Programming
-10. Linear Programming
-11. Simulated Annealing
-12. Genetic Algorithms
-13. High-Dimensional Data Analysis
+5. [Non-Linear Equations](https://github.com/cjmlgrto/fit3139-notes/blob/master/notes/05-non_linear_equations.md)
+6. Dynamical Systems
+7. Modelling using Differential Equations
+8. Solving Ordinary Differential Equations
+9. Stochastic Modelling
+10. Dynamic Programming
+11. Linear Programming
+12. Simulated Annealing
+13. Genetic Algorithms
+14. High-Dimensional Data Analysis
