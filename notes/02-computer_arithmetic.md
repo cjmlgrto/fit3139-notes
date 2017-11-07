@@ -12,7 +12,7 @@
 	* _Exponent_: `-4`
 	* _Base_: decimal (base-10)
 * Any floating-point number `x` has the form:
-	* `x = ±( [d_0÷b^0] + [d_1÷b^1] + [d_2÷b^2] + ... + [d_(p-1)÷b^(p-1)] ) × b^E
+	* `x = ±( [d_0÷b^0] + [d_1÷b^1] + [d_2÷b^2] + ... + [d_(p-1)÷b^(p-1)] ) × b^E`
 	* `b` is the base or _radix_
 	* `p` is the precision
 	* `E ∈ [L,U]` is an exponent
