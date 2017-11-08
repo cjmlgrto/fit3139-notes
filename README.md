@@ -15,7 +15,7 @@ If you see an issue, just [submit one](https://github.com/cjmlgrto/fit3139-notes
 6. [Dynamical Systems](https://github.com/cjmlgrto/fit3139-notes/blob/master/notes/06-dynamical_systems.md)
 7. [Modelling using Differential Equations](https://github.com/cjmlgrto/fit3139-notes/blob/master/notes/07-modelling_with_differentials.md)
 8. [Solving Ordinary Differential Equations](https://github.com/cjmlgrto/fit3139-notes/blob/master/notes/08-solving_ode.md)
-9. Stochastic Modelling
+9. [Stochastic Modelling](https://github.com/cjmlgrto/fit3139-notes/blob/master/notes/09-stochastic_modelling.md)
 10. Dynamic Programming
 11. Linear Programming
 12. Simulated Annealing
