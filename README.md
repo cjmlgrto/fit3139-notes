@@ -17,7 +17,7 @@ If you see an issue, just [submit one](https://github.com/cjmlgrto/fit3139-notes
 8. [Solving Ordinary Differential Equations](https://github.com/cjmlgrto/fit3139-notes/blob/master/notes/08-solving_ode.md)
 9. [Stochastic Modelling](https://github.com/cjmlgrto/fit3139-notes/blob/master/notes/09-stochastic_modelling.md)
 10. [Dynamic Programming](https://github.com/cjmlgrto/fit3139-notes/blob/master/notes/10-dynamic_programming.md)
-11. Linear Programming
+11. [Linear Programming](https://github.com/cjmlgrto/fit3139-notes/blob/master/notes/11-linear_programming.md)
 12. Simulated Annealing
 13. Genetic Algorithms
 14. High-Dimensional Data Analysis
