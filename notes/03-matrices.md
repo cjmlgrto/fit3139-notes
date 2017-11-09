@@ -1,6 +1,6 @@
 [← Return to Index](https://github.com/cjmlgrto/fit3139-notes/)
 
-# Matrices
+# Linear Equation Systems
 
 ## Basics
 
