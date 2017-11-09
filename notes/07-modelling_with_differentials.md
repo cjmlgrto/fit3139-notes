@@ -1,6 +1,6 @@
 [← Return to Index](https://github.com/cjmlgrto/fit3139-notes/)
 
-# Modelling using Differential Equations
+# Differential Equations
 
 * **Differential Equation** — an equation containing derivatives
 * Solutions to a differential equation implies _finding a function_ that satisfies the differential equation

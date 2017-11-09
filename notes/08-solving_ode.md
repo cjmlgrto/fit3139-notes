@@ -1,6 +1,6 @@
 [← Return to Index](https://github.com/cjmlgrto/fit3139-notes/)
 
-# Solving Ordinary Differential Equations
+# First-Order Ordinary Differential Equations
 
 * **Ordinary Differential Equation (ODE)** — an equation that contains only ordinary derivatives with respect to a single independent variable
 	* e.g. `15 d^2y/dx^2 + 21 dy/dx + 8y = 0`

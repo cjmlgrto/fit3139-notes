@@ -1,6 +1,6 @@
 [← Return to Index](https://github.com/cjmlgrto/fit3139-notes/)
 
-# Stochastic Modelling
+# Stochastic Systems
 
 * A **deterministic** system model is a model with no stochastic (i.e. random) components — every state of the variables is uniquely determined by the previous state of these variables
 * A **stochastic** system model has inherent randomness, and the states each variable take are not described by unique values, but rather by probability distributions — i.e. stochastic models produce different states for the same given set of initial conditions
