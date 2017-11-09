@@ -86,7 +86,7 @@ And so on...
 * `D[i,0] = D[i-1,0] + g`
 * `D[0,j] = D[0,j-1] + g`
 * `D[i,j] = min{`
-	* `D[i-1,j-1] + substitutionMatrixScore(char1, char2)
+	* `D[i-1,j-1] + substitutionMatrixScore(char1, char2)`
 	* `D[i-1,j] + g`
 	* `D[i,j-1] + g`
 
@@ -97,6 +97,6 @@ And so on...
 * `D[i,0] = G(l)`
 * `D[0,j] = G(l)`
 * `D[i,j] = min{`
-	* `D[i-1,j-1] + substitutionMatrixScore(char1, char2)
+	* `D[i-1,j-1] + substitutionMatrixScore(char1, char2)`
 	* `D[i-1,j] + G(l)`
 	* `D[i,j-1] + G(l)`
