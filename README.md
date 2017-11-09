@@ -19,7 +19,7 @@ If you see an issue, just [submit one](https://github.com/cjmlgrto/fit3139-notes
 10. [Dynamic Programming](https://github.com/cjmlgrto/fit3139-notes/blob/master/notes/10-dynamic_programming.md)
 11. [Linear Programming](https://github.com/cjmlgrto/fit3139-notes/blob/master/notes/11-linear_programming.md)
 12. [Simulated Annealing](https://github.com/cjmlgrto/fit3139-notes/blob/master/notes/12-simulated_annealing.md)
-13. Genetic Algorithms
+13. [Genetic Algorithms](https://github.com/cjmlgrto/fit3139-notes/blob/master/notes/13-genetic_algorithms.md)
 14. High-Dimensional Data Analysis
 
 
